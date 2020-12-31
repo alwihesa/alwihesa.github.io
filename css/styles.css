@@ -7668,7 +7668,7 @@ button.bg-black:focus {
 
 .ml-2,
 .mx-2 {
-  margin-left: 0.5rem !important;
+  margin-left: 2.5rem !important;
 }
 
 .m-3 {
@@ -10195,7 +10195,7 @@ body {
   padding: 0.5rem 1.2rem;
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.9rem;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.02rem;
   border: 0;
 }
 
@@ -10344,13 +10344,13 @@ body {
   text-align: center;
   height: 3rem;
   width: 3rem;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(163, 163, 163, 0.1);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(255, 255, 255, 0.3);
+  color: rgba(255, 255, 255,1);
 }
 .contact-section .social a:hover {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(173, 173, 173, 1);
 }
 .contact-section .social a:active {
   color: #fff;
