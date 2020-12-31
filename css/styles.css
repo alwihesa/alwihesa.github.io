@@ -377,7 +377,6 @@ h2, .h2 {
 h3, .h3 {
   font-size: 1.75rem;
 }
-
 h4, .h4 {
   font-size: 1.5rem;
 }
@@ -10227,6 +10226,14 @@ body {
   line-height: 1.7rem;
   font-weight: 100;
 }
+.masthead h3 {
+    font-size: 3rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: 100;
+    color: #909090;
+    display: inline;
+  }
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 3rem;
@@ -10248,6 +10255,13 @@ body {
     font-size: 1rem;
     line-height: 1.5rem;
     font-weight: 100;
+  }
+  .masthead h3 {
+    font-size: 3rem;
+    line-height: 6.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: 100;
+    display: inline;
   }
 }
 
