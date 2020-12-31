@@ -7654,7 +7654,7 @@ button.bg-black:focus {
 
 .mt-2,
 .my-2 {
-  margin-top: 1rem !important;
+  margin-top: 0.8rem !important;
 }
 
 .mr-2,
@@ -10223,8 +10223,7 @@ body {
 .masthead h2 {
   max-width: 20rem;
   font-size: 1rem;
-  line-height: 1.7rem;
-  letter-spacing: 0.1rem;
+  line-height: 1.5rem;
   line-height: 1.7rem;
   font-weight: 100;
 }
@@ -10247,8 +10246,7 @@ body {
   .masthead h2 {
     max-width: 30rem;
     font-size: 1rem;
-    line-height: 1.7rem;
-    letter-spacing: 0.1rem;
+    line-height: 1.5rem;
     font-weight: 100;
   }
 }
