@@ -7654,7 +7654,7 @@ button.bg-black:focus {
 
 .mt-2,
 .my-2 {
-  margin-top: 0.5rem !important;
+  margin-top: 2rem !important;
 }
 
 .mr-2,
@@ -10218,9 +10218,7 @@ body {
   font-size: 3rem;
   line-height: 2.5rem;
   letter-spacing: 0.2rem;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-          background-clip: text;
+  color: #fff;
 }
 .masthead h2 {
   max-width: 20rem;
