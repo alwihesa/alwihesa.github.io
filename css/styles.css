@@ -10218,6 +10218,7 @@ body {
   line-height: 2.5rem;
   letter-spacing: 0.2rem;
   color: #fff;
+  display: inline;
 }
 .masthead h2 {
   max-width: 20rem;
