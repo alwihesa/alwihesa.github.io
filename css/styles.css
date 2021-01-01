@@ -4102,7 +4102,8 @@ input[type=button].btn-block {
     height: 100px;
     width: 100px;
     display: inline;
-    padding: 2rem;
+    margin: 2rem;
+    padding: 0.5rem;
     /* Other styles here */
 }
 
@@ -4467,7 +4468,7 @@ input[type=button].btn-block {
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
-  padding-top: 2rem;
+  padding-top: 1rem;
 }
 
 .card-title {
@@ -10312,7 +10313,7 @@ body {
 }
 
 .about-section {
-  padding-top: 5rem;
+  padding-top: 6rem;
   padding-bottom: 7rem;
   background: #242323;
 }
