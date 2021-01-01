@@ -575,6 +575,7 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   margin-right: -0.75rem;
   margin-left: -0.75rem;
 }
@@ -4099,7 +4100,6 @@ input[type=button].btn-block {
     width: 100px;
     display: inline;
     margin-right: 2rem;
-    margin-left: 2rem;
     /* Other styles here */
 }
 
@@ -4464,7 +4464,7 @@ input[type=button].btn-block {
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
-  padding: 1.25rem;
+  padding-left: 1rem;
 }
 
 .card-title {
