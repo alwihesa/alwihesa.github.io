@@ -4110,6 +4110,14 @@ input[type=button].btn-block {
     /* Other styles here */
 }
 
+.icon-github {
+    background: url("../assets/icon/github.svg");
+    height: 30px;
+    width: 30px;
+    display: block;
+    /* Other styles here */
+}
+
 .icon-youtube {
     background: url("../assets/icon/youtube.svg");
     height: 32px;
@@ -7677,7 +7685,7 @@ button.bg-black:focus {
 
 .mt-2,
 .my-2 {
-  margin-top: 0.8rem !important;
+  margin-top: 1.4rem !important;
 }
 
 .mr-2,
