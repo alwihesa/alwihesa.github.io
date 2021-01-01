@@ -10214,6 +10214,14 @@ body {
   #mainNav.navbar-shrink .navbar-brand {
     color: #8C8C8C;
   }
+
+  @media (min-width: 992px){
+  #mainNav.navbar-shrink .nav-link {
+    color: #8C8C8C;
+    padding: 1.5rem 1.5rem 1.25rem;
+    border-bottom: 0.25rem solid transparent;
+  }
+}
   #mainNav.navbar-shrink .nav-link {
     color: #8C8C8C;
     padding: 1.5rem 1.5rem 1.25rem;
