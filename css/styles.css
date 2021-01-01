@@ -4061,7 +4061,7 @@ input[type=button].btn-block {
   display: flex;
   flex-direction: column;
   padding-left: 0;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
   list-style: none;
 }
 .navbar-nav .nav-link {
@@ -4082,7 +4082,6 @@ input[type=button].btn-block {
 .navbar-collapse {
   flex-basis: 100%;
   flex-grow: 1;
-  padding-left: 1rem;
   align-items: center;
 }
 
@@ -4240,7 +4239,6 @@ input[type=button].btn-block {
 .navbar-expand-lg > .container-xl {
     padding-right: 0;
     padding-left: 1rem;
-    padding-bottom: 1rem;
   }
 }
 @media (min-width: 992px) {
