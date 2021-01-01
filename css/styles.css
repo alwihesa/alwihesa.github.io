@@ -4096,8 +4096,24 @@ input[type=button].btn-block {
 
 .icon-instagram {
     background: url("../assets/icon/instagram.svg");
-    height: 24px;
-    width: 24px;
+    height: 30px;
+    width: 30px;
+    display: block;
+    /* Other styles here */
+}
+
+.icon-instagram {
+    background: url("../assets/icon/dribbble.svg");
+    height: 30px;
+    width: 30px;
+    display: block;
+    /* Other styles here */
+}
+
+.icon-youtube {
+    background: url("../assets/icon/youtube.svg");
+    height: 32px;
+    width: 32px;
     display: block;
     /* Other styles here */
 }
