@@ -4238,7 +4238,7 @@ input[type=button].btn-block {
 .navbar-expand-lg > .container-lg,
 .navbar-expand-lg > .container-xl {
     padding-right: 0;
-    padding-left: 0;
+    padding-left: 1rem;
   }
 }
 @media (min-width: 992px) {
