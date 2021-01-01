@@ -4091,8 +4091,7 @@ input[type=button].btn-block {
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
-  border: 1px solid transparent;
-  border-radius: 0.25rem;
+  border: 0px solid transparent;
 }
 .navbar-toggler:hover, .navbar-toggler:focus {
   text-decoration: none;
@@ -10165,18 +10164,18 @@ body {
   background-color: #fff;
 }
 #mainNav .navbar-toggler {
-  font-size: 80%;
+  font-size: 90%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  border: 0px solid #64a19d;
 }
 #mainNav .navbar-toggler:focus {
   outline: none;
 }
 #mainNav .navbar-brand {
-  color: #000000;
+  color: #8C8C8C;
   font-weight: 700;
   padding: 0.9rem 0;
+  margin-left: 1rem;
 }
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(#fff, 80%);
@@ -10197,7 +10196,7 @@ body {
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(30, 29, 29, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
