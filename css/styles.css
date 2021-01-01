@@ -4097,7 +4097,8 @@ input[type=button].btn-block {
 .icon-set {
     height: 80px;
     width: 80px;
-    display: block;
+    display: inline;
+
     /* Other styles here */
 }
 
@@ -4432,7 +4433,6 @@ input[type=button].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
