@@ -10254,7 +10254,10 @@ body {
     font-weight: 100;
     color: #909090;
     display: inline;
-  }
+}
+.masthead 
+
+
 @media (min-width: 768px) {
   .masthead h1 {
     font-size: 2.5rem;
