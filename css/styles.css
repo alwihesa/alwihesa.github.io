@@ -4095,10 +4095,11 @@ input[type=button].btn-block {
 }
 
 .icon-set {
-    height: 80px;
-    width: 80px;
+    height: 100px;
+    width: 100px;
     display: inline;
-
+    margin-right: 2rem;
+    margin-left: 2rem;
     /* Other styles here */
 }
 
