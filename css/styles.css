@@ -4087,7 +4087,6 @@ input[type=button].btn-block {
 
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
-  font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
   border: 0px solid transparent;
@@ -4376,7 +4375,7 @@ input[type=button].btn-block {
   color: rgba(0, 0, 0, 0.9);
 }
 .navbar-light .navbar-toggler {
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(140, 140, 140, 1);
   border-color: rgba(0, 0, 0, 0.1);
 }
 .navbar-light .navbar-toggler-icon {
@@ -10160,11 +10159,12 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #fff;
+  background-color: #1E1D1D;
 }
 #mainNav .navbar-toggler {
   font-size: 90%;
   padding: 0.75rem;
+  color: #DDDDDD;
   border: 0px solid #64a19d;
 }
 #mainNav .navbar-toggler:focus {
