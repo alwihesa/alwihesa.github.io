@@ -4094,6 +4094,13 @@ input[type=button].btn-block {
   text-decoration: none;
 }
 
+.icon-set {
+    height: 80px;
+    width: 80px;
+    display: block;
+    /* Other styles here */
+}
+
 .icon-instagram {
     background: url("../assets/icon/instagram.svg");
     height: 30px;
@@ -10224,7 +10231,7 @@ body {
 
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
-  padding: 0.5rem 1.2rem;
+  padding: 0.6rem 1.2rem;
   margin-right: 1.5rem;
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.9rem;
