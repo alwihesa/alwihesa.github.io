@@ -4083,7 +4083,6 @@ input[type=button].btn-block {
   flex-basis: 100%;
   flex-grow: 1;
   padding-left: 1rem;
-  padding-bottom: 1rem;
   align-items: center;
 }
 
@@ -4240,7 +4239,8 @@ input[type=button].btn-block {
 .navbar-expand-lg > .container-lg,
 .navbar-expand-lg > .container-xl {
     padding-right: 0;
-    padding-left: 0;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
   }
 }
 @media (min-width: 992px) {
@@ -10176,7 +10176,6 @@ body {
   color: #8C8C8C;
   font-weight: 700;
   padding: 0.9rem 0;
-  margin-left: 1rem;
 }
 #mainNav .navbar-nav .nav-item:hover {
   color: fade(#fff, 80%);
