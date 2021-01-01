@@ -4099,7 +4099,7 @@ input[type=button].btn-block {
     height: 100px;
     width: 100px;
     display: inline;
-    margin-right: 2rem;
+    margin-right: 4rem;
     /* Other styles here */
 }
 
@@ -4464,7 +4464,7 @@ input[type=button].btn-block {
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
-  padding-left: 1rem;
+  padding-left: 2rem;
 }
 
 .card-title {
@@ -10310,7 +10310,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
+  background: #303030;
 }
 .about-section p {
   margin-bottom: 5rem;
