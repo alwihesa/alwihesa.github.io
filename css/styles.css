@@ -546,8 +546,8 @@ pre code {
 .container-md,
 .container-sm {
   width: 100%;
-  padding-right: 0.75rem;
-  padding-left: 0.75rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
   margin-right: auto;
   margin-left: auto;
 }
@@ -4102,7 +4102,7 @@ input[type=button].btn-block {
     /* Other styles here */
 }
 
-.icon-instagram {
+.icon-dribbble {
     background: url("../assets/icon/dribbble.svg");
     height: 30px;
     width: 30px;
@@ -10228,7 +10228,7 @@ body {
   width: 100%;
   height: auto;
   min-height: 35rem;
-  padding: 15rem 0;
+  padding: 13rem 0;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%, #303030 100%), url("../assets/img/hero_bg.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -10237,31 +10237,35 @@ body {
 }
 .masthead h1 {
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  font-size: 3rem;
-  line-height: 2.5rem;
-  letter-spacing: 0.2rem;
+  font-size: 2.5rem;
+  line-height: 2rem;
   color: #fff;
   display: inline;
 }
 .masthead h2 {
-  max-width: 20rem;
-  font-size: 1rem;
-  line-height: 1.5rem;
-  line-height: 1.7rem;
+  max-width: 17rem;
+  font-size: 0.9rem;
+  line-height: 1.4rem;
   font-weight: 100;
 }
 .masthead h3 {
-    font-size: 3rem;
-    line-height: 6.5rem;
-    letter-spacing: 0.2rem;
+    font-size: 2.5rem;
+    line-height: 2rem;
     font-weight: 100;
     color: #909090;
     display: inline;
   }
 @media (min-width: 768px) {
   .masthead h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     line-height: 4rem;
+    letter-spacing: 0.2rem;
+  }
+  .masthead h2 {
+    max-width: 30rem;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    font-weight: 100;
   }
 }
 @media (min-width: 992px) {
