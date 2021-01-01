@@ -4094,6 +4094,14 @@ input[type=button].btn-block {
   text-decoration: none;
 }
 
+.icon-instagram {
+    background: url("../assets/icon/instagram.svg");
+    height: 24px;
+    width: 24px;
+    display: block;
+    /* Other styles here */
+}
+
 .navbar-toggler-icon {
   display: inline-block;
   width: 1.5em;
