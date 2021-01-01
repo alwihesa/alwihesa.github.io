@@ -378,7 +378,10 @@ h3, .h3 {
   font-size: 1.75rem;
 }
 h4, .h4 {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 2rem;
+  color: #fff;
 }
 
 h5, .h5 {
@@ -4099,7 +4102,7 @@ input[type=button].btn-block {
     height: 100px;
     width: 100px;
     display: inline;
-    margin-right: 4rem;
+    padding: 2rem;
     /* Other styles here */
 }
 
@@ -4464,7 +4467,7 @@ input[type=button].btn-block {
 .card-body {
   flex: 1 1 auto;
   min-height: 1px;
-  padding-left: 2rem;
+  padding-top: 2rem;
 }
 
 .card-title {
@@ -10309,7 +10312,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   background: #242323;
 }
 .about-section p {
