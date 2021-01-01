@@ -4240,6 +4240,7 @@ input[type=button].btn-block {
 .navbar-expand-lg > .container-xl {
     padding-right: 0;
     padding-left: 0;
+    padding-bottom: 0.8rem;
   }
 }
 @media (min-width: 992px) {
