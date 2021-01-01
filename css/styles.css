@@ -10348,6 +10348,10 @@ body {
   }
 }
 
+.footer-white {
+  color: rgba(90, 90, 90, 1) !important;
+}
+
 .footer {
   padding: 2rem 0;
   background-color: #1E1D1D !important;
