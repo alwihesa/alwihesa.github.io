@@ -160,7 +160,7 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #879367;
   text-decoration: none;
   background-color: transparent;
 }
@@ -7781,7 +7781,8 @@ button.bg-black:focus {
 
 .mb-5,
 .my-5 {
-  margin-top: 3rem !important;
+  margin-top: 0.5rem !important;
+  margin-bottom: 3.5rem;
 }
 
 .ml-5,
@@ -10247,11 +10248,11 @@ body {
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 0.8rem 2rem;
-  margin-right: 2.5rem;
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   letter-spacing: 0.05rem;
   border: 0;
+  margin-bottom: 2rem;
 }
 
 .masthead {
@@ -10361,6 +10362,15 @@ body {
 
 .footer-white {
   color: rgba(90, 90, 90, 1) !important;
+}
+
+.button-text-card{
+    padding: 0.8rem 2rem;
+    font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+    border: 0;
+    margin-bottom: 2rem;
 }
 
 .footer {
