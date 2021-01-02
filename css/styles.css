@@ -2423,7 +2423,6 @@ textarea.form-control {
 }
 
 .btn {
-  display: inline-block;
   font-weight: 400;
   color: #212529;
   text-align: center;
@@ -10367,7 +10366,7 @@ body {
 .button-text-card{
     padding: 0.8rem 2rem;
     font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 1rem;
+    font-size: 0.9rem;
     letter-spacing: 0.05rem;
     border: 0;
     margin-bottom: 2rem;
