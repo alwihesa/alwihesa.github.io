@@ -7660,6 +7660,7 @@ button.bg-black:focus {
 
 .mb-0,
 .my-0 {
+  margin-top: 1.2rem;
   margin-bottom: 3.5rem !important;
 }
 
@@ -7756,7 +7757,7 @@ button.bg-black:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 4rem !important;
+  margin-bottom: 0rem !important;
 }
 
 .ml-4,
@@ -7780,7 +7781,7 @@ button.bg-black:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important;
+  margin-top: 3rem !important;
 }
 
 .ml-5,
@@ -10323,7 +10324,7 @@ body {
 
 .about-section {
   padding-top:8rem;
-  padding-bottom: 8rem;
+  padding-bottom: 6rem;
   background: #242323;
 }
 .about-section p {
