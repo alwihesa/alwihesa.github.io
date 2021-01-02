@@ -4061,7 +4061,6 @@ input[type=button].btn-block {
   display: flex;
   flex-direction: column;
   padding-left: 0;
-  margin-bottom: 1rem;
   list-style: none;
 }
 .navbar-nav .nav-link {
