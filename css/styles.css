@@ -479,6 +479,7 @@ mark,
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border-radius: 1.5rem;
 }
 
 .img-thumbnail {
@@ -581,6 +582,10 @@ pre code {
   justify-content: center;
   margin-right: -0.75rem;
   margin-left: -0.75rem;
+  padding: 2rem;
+  background: #383838;
+  border-radius: 2rem;
+
 }
 
 .no-gutters {
