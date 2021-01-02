@@ -7660,7 +7660,7 @@ button.bg-black:focus {
 
 .mb-0,
 .my-0 {
-  margin-bottom: 0 !important;
+  margin-bottom: 3.5rem !important;
 }
 
 .ml-0,
@@ -10246,7 +10246,7 @@ body {
 .btn {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 0.8rem 2rem;
-  margin-right: 1.5rem;
+  margin-right: 2.5rem;
   font-family: "Museo sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   letter-spacing: 0.05rem;
@@ -10331,7 +10331,8 @@ body {
 }
 
 .projects-section {
-  padding: 8rem 0;
+  padding-top: 9rem;
+  padding-bottom: 6rem
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10348,7 +10349,7 @@ body {
 }
 @media (min-width: 992px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 5rem 3rem;
   }
   .projects-section .project-text hr {
     border-color: #64a19d;
