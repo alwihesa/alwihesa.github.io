@@ -7756,7 +7756,7 @@ button.bg-black:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important;
+  margin-bottom: 4rem !important;
 }
 
 .ml-4,
@@ -10322,8 +10322,8 @@ body {
 }
 
 .about-section {
-  padding-top:9rem;
-  padding-bottom: 7rem;
+  padding-top:8rem;
+  padding-bottom: 8rem;
   background: #242323;
 }
 .about-section p {
@@ -10331,8 +10331,7 @@ body {
 }
 
 .projects-section {
-  padding: 9rem 0;
-  background: #242323;
+  padding: 8rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
