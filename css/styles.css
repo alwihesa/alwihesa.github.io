@@ -4139,6 +4139,14 @@ input[type=button].btn-block {
     /* Other styles here */
 }
 
+.icon-medium {
+    background: url("../assets/icon/medium.svg");
+    height: 32px;
+    width: 32px;
+    display: block;
+    /* Other styles here */
+}
+
 .navbar-toggler-icon {
   display: inline-block;
   width: 1.5em;
